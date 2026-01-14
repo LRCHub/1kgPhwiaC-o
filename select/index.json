@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "BANDIT",
+  "base_artist": "Don Toliver",
+  "createdAt": "2026-01-14T04:47:13.237108Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Do You Know You Are My Sunshine? (From \"Smokey And The Bandit 2\" Soundtrack)",
+      "artist": "The Statler Brothers",
+      "has_synced": true,
+      "path": "select/01_Do_You_Know_You_Are_My_Sunshine__(From__Smokey_And_The_Bandit_2__Soundtrack)_The_Statler_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "East Bound and Down (from the Motion Picture \"Smokey and the Bandit\")",
+      "artist": "Jerry Reed",
+      "has_synced": true,
+      "path": "select/02_East_Bound_and_Down_(from_the_Motion_Picture__Smokey_and_the_Bandit_)_Jerry_Reed.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "East Bound and Down ((from the Motion Picture \"Smokey and the Bandit\"))",
+      "artist": "Jerry Reed",
+      "has_synced": true,
+      "path": "select/03_East_Bound_and_Down_((from_the_Motion_Picture__Smokey_and_the_Bandit_))_Jerry_Reed.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Texas Bound and Flyin' (from the Motion Picture \"Smokey and the Bandit II\")",
+      "artist": "Jerry Reed",
+      "has_synced": true,
+      "path": "select/04_Texas_Bound_and_Flyin'_(from_the_Motion_Picture__Smokey_and_the_Bandit_II_)_Jerry_Reed.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Say It (feat. Tove Lo) [Clean Bandit Remix]",
+      "artist": "Flume feat. Tove Lo",
+      "has_synced": true,
+      "path": "select/05_Say_It_(feat._Tove_Lo)_[Clean_Bandit_Remix]_Flume_feat._Tove_Lo.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Say It (Clean Bandit remix)",
+      "artist": "Flume & Tove Lo",
+      "has_synced": true,
+      "path": "select/06_Say_It_(Clean_Bandit_remix)_Flume_&_Tove_Lo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bandit of Love",
+      "artist": "Bonfire",
+      "has_synced": true,
+      "path": "select/07_Bandit_of_Love_Bonfire.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bandit Country",
+      "artist": "Armored Saint",
+      "has_synced": false,
+      "path": "select/08_Bandit_Country_Armored_Saint.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Illinois Enema Bandit",
+      "artist": "Frank Zappa",
+      "has_synced": false,
+      "path": "select/09_The_Illinois_Enema_Bandit_Frank_Zappa.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Illinois Enema Bandit (Live At Hordern Pavilion, Sydney/1976)",
+      "artist": "Frank Zappa",
+      "has_synced": false,
+      "path": "select/10_The_Illinois_Enema_Bandit_(Live_At_Hordern_Pavilion,_Sydney_1976)_Frank_Zappa.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Illinois Enema Bandit (Live At Hordern Pavilion, Sydney\u00001976)",
+      "artist": "Frank Zappa",
+      "has_synced": true,
+      "path": "select/11_The_Illinois_Enema_Bandit_(Live_At_Hordern_Pavilion,_Sydney\u00001976)_Frank_Zappa.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Illinois Enema Bandit (Live At The Palladium - 10/31/81 - Show 2)",
+      "artist": "Frank Zappa",
+      "has_synced": true,
+      "path": "select/12_The_Illinois_Enema_Bandit_(Live_At_The_Palladium_-_10_31_81_-_Show_2)_Frank_Zappa.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Illinois Enema Bandit (Live At The Palladium - 10\u000031\u000081 - Show 2)",
+      "artist": "Frank Zappa",
+      "has_synced": true,
+      "path": "select/13_The_Illinois_Enema_Bandit_(Live_At_The_Palladium_-_10\u000031\u000081_-_Show_2)_Frank_Zappa.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Legend of the Illinois Enema Bandit",
+      "artist": "Frank Zappa",
+      "has_synced": true,
+      "path": "select/14_The_Legend_of_the_Illinois_Enema_Bandit_Frank_Zappa.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bandit Cole Younger",
+      "artist": "Edward L. Crain",
+      "has_synced": false,
+      "path": "select/15_Bandit_Cole_Younger_Edward_L._Crain.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Illinois Enema Bandit (Live At Hordern Pavilion, Sydney/1976)",
+      "artist": "Frank Zappa",
+      "has_synced": true,
+      "path": "select/16_The_Illinois_Enema_Bandit_(Live_At_Hordern_Pavilion,_Sydney_1976)_Frank_Zappa.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bandit",
+      "artist": "Don Toliver",
+      "has_synced": false,
+      "path": "select/pl_01_Bandit_Don_Toliver.txt"
+    }
+  ]
+}
